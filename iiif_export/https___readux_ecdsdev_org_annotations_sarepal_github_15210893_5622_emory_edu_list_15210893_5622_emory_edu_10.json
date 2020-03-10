@@ -1,0 +1,57 @@
+{
+    "@type": "sc:AnnotationList",
+    "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/15210893.5622.emory.edu/list/15210893.5622.emory.edu$10",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "@type": "oa:Annotation",
+            "@id": "5c649e3a-172d-4927-b49a-0e4b71049288",
+            "stylesheet": {
+                "value": ".anno-5c649e3a-172d-4927-b49a-0e4b71049288 { background: rgba(0, 191, 255, 0.5); }",
+                "type": "CssStylesheet"
+            },
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>note</p>",
+                "language": "en"
+            },
+            "motivation": "oa:commenting",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=79,2505,1543,136",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='1bc2bec1-8697-4228-8c40-3f409da3eae2']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 3
+                            }
+                        },
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='40e999b1-ce3a-4447-83bf-d97dc9dd0705']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        }
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$10"
+            }
+        }
+    ]
+}

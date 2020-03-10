@@ -1,0 +1,51 @@
+{
+    "@type": "sc:AnnotationList",
+    "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/15210893.5622.emory.edu/list/15210893.5622.emory.edu$9",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "@type": "oa:Annotation",
+            "@id": "27d70ebc-d8be-49ad-92d8-dc099d6478ef",
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>big letter</p>",
+                    "language": "en"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag2"
+                }
+            ],
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=99,2151,479,514",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M169.50557,2226.65634c44.20861,-43.15598 106.57203,-75.29278 169.23765,-75.25438v0v0c62.66563,0.0384 117.2579,30.10185 169.23765,75.25438c51.97976,45.15253 72.18363,113.95628 70.10053,181.68015c-2.0831,67.72388 -26.45317,134.36789 -70.10053,181.68015c-43.64737,47.31226 -106.57203,75.29278 -169.23765,75.25438c-62.66563,-0.0384 -125.07221,-28.0957 -169.23765,-75.25438c-44.16544,-47.15868 -70.08974,-113.41874 -70.10053,-181.68015c-0.01079,-68.26141 25.89192,-138.52417 70.10053,-181.68015z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3db2497a-88ca-406a-9945-973c786612c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=99,2151,479,514"
+                        }
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$9"
+            }
+        }
+    ]
+}

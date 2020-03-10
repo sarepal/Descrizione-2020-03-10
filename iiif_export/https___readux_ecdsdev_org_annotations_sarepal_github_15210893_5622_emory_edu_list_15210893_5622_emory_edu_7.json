@@ -1,0 +1,238 @@
+{
+    "@type": "sc:AnnotationList",
+    "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/15210893.5622.emory.edu/list/15210893.5622.emory.edu$7",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "@type": "oa:Annotation",
+            "@id": "ba211f81-e55a-42d5-8835-f141cdc5a826",
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>oval note</p>",
+                    "language": "en"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag2"
+                }
+            ],
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=489,2086,732,469",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M596.45419,2154.65223c67.58249,-39.38041 162.91853,-68.70566 258.71657,-68.67062v0v0c95.79804,0.03504 179.25421,27.46834 258.71657,68.67062c79.46237,41.20229 110.34838,103.98661 107.16391,165.78555c-3.18447,61.79894 -40.43942,122.61248 -107.16391,165.78555c-66.72449,43.17307 -162.91853,68.70566 -258.71657,68.67062c-95.79804,-0.03504 -191.20009,-25.6377 -258.71657,-68.67062c-67.51649,-43.03292 -107.14741,-103.49611 -107.16391,-165.78555c-0.0165,-62.28944 39.58143,-126.40515 107.16391,-165.78555z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_c62341fa-1ee1-47ac-8029-a5818087315c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=489,2086,732,469"
+                        }
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$7"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "@id": "dd5f8908-3810-49ab-8468-eefa344e6ce4",
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>IN</p>",
+                "language": "en"
+            },
+            "motivation": "oa:commenting",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=847,1087,180,128",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M847.08967,1086.84896h90.13043v0h90.13043v63.98551v63.98551h-90.13043h-90.13043v-63.98551z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a33f0944-46ab-4533-b0b7-273021ba621c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=847,1087,180,128"
+                        }
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$7"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "@id": "cfac8c9b-d310-44b7-bd2e-86aff8764d6a",
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>sqaure note</p>",
+                "language": "en"
+            },
+            "motivation": "oa:commenting",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=441,1446,613,513",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M440.79257,1446.27672h306.42029v0h306.42029v256.50725v256.50725h-306.42029h-306.42029v-256.50725z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2460ae61-8659-4574-959a-1375f408d777\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"27.47208\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=441,1446,613,513"
+                        }
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$7"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "@id": "6afbae6a-2708-4b20-a60e-43dcb5a26f0f",
+            "stylesheet": {
+                "value": ".anno-6afbae6a-2708-4b20-a60e-43dcb5a26f0f { background: rgba(0, 191, 255, 0.5); }",
+                "type": "CssStylesheet"
+            },
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>note without tags</p>",
+                "language": "en"
+            },
+            "motivation": "oa:commenting",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=207,2718,906,68",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='e0d97726-6b3b-4290-9383-830f60c2201d']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 2
+                            }
+                        },
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='8cfb94d8-9b6e-4e4e-ab5c-964e3a5334d0']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 3
+                            }
+                        }
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$7"
+            }
+        },
+        {
+            "@type": "oa:Annotation",
+            "@id": "201243f4-9574-45c2-8356-153233d47e01",
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>note</p>",
+                    "language": "en"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag2"
+                }
+            ],
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ],
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=253,850,1007,94",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='b2a295cf-57db-4e02-952d-7f8711563b32']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 3
+                            }
+                        },
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='15ae3f11-04ad-47b8-9176-bbc9f7c8589d']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        }
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$7"
+            }
+        }
+    ]
+}
